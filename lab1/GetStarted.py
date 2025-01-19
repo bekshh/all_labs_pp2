@@ -1,0 +1,6 @@
+.py
+
+python --version
+
+exit()
+
